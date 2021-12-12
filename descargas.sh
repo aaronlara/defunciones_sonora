@@ -29,16 +29,16 @@ echo "descargando archivo"
 wget http://www.dgis.salud.gob.mx/descargas/datosabiertos/defunciones/registro/DEFUN_2004-2011.zip
 unzip DEFUN_2004-2011.zip
 mv "DEFUN 2004-2011"/*.csv files/
-rf DEFUN_2004-2011.zip
+rm DEFUN_2004-2011.zip
 rm -rf "DEFUN 2004-2011"
 sleep 60
 
 echo "descargando archivo"
 wget http://www.dgis.salud.gob.mx/descargas/datosabiertos/defunciones/registro/DEFUN_2012-2013.zip
 unzip DEFUN_2012-2013.zip
-mv "DEFUN_2012-2013"/.csv files/
+mv "DEFUN 2012-2013"/*.csv files/
 rm DEFUN_2012-2013.zip
-rm -rf "DEFUN_2012-2013"
+rm -rf "DEFUN 2012-2013"
 sleep 60
 
 echo "descargando archivo"
@@ -76,7 +76,7 @@ echo "descargando archivo"
 wget http://www.dgis.salud.gob.mx/descargas/datosabiertos/defunciones/registro/DEFUN_2018.zip
 unzip DEFUN_2018.zip
 unzip Defunciones_2018/def18.zip
-mv Defunciones_2018/*.csv files/
+mv *.csv files/
 rm DEFUN_2018.zip
 rm -rf Defunciones_2018/
 sleep 60
