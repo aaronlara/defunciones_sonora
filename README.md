@@ -1,5 +1,5 @@
 # Defunciones en Sonora 1998 - 2020
-El interés de este proyecto es visualizar las principales causas de muerte en el Estado de Sonora, México, así como su evolución en los últimos 22 años. Lo anterior es posible aplicando la ingeniería de características.\
+El interés de este proyecto es visualizar las principales causas de muerte en el Estado de Sonora, México, así como su evolución en los últimos 22 años.
 Realizado con información pública de la Secretaría de Salud, la cual puede consultarse en: http://www.dgis.salud.gob.mx/contenidos/basesdedatos/da_defunciones_gobmx.html \
 El diccionario de datos se puede consultar en la carpeta archivos o descargar desde http://www.dgis.salud.gob.mx/descargas/datosabiertos/defunciones/catalogos/CATALOGOS_DEFUN_2020.zip?v=1.1.1
 La descripción de los campos en defunciones se puede descargar desde http://www.dgis.salud.gob.mx/descargas/datosabiertos/defunciones/descriptores/DESCRIPTOR_CAMPOS_DEFUN_2020.zip?v=1.1.1
