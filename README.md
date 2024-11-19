@@ -8,6 +8,6 @@ La descripción de los campos se puede descargar desde: http://www.dgis.salud.go
 
 Los archivos originales se descargan a través del archivo "descargas.sh", posteriormente se procesan con el script "preparacion_datos.py", este genera el archivo "datos_sonora.zip" con la información integrada de todos los años y enfocada al Estado de Sonora. En la libreta Jupyter Defunciones_sonora.ipynb se analizan, limpian, transforman y visualizan los datos.
 
-En la columna causas de defunción se utiliza el archivo "grupo_lista_mexicana.csv", el cual contiene un catálogo agrupado con 60 casuas de defunción.
+En la columna causas de defunción se utiliza el archivo "grupo_lista_mexicana.csv", el cual contiene un catálogo agrupado con 60 causas de defunción.
 
 Como conclusión se realiza un tablero que está disponible en Tableau Public https://public.tableau.com/app/profile/aaron.lara7205/viz/defunciones_sonora/Dashboard?publish=yes
